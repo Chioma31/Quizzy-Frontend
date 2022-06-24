@@ -1,0 +1,83 @@
+.Help {
+  width: 100%;
+  height: 100vh;
+  padding-top: 2rem;
+  background-size: cover;
+  background-color: #434368;
+}
+
+.People {
+  margin-left: 3rem;
+}
+
+.People img {
+  height: 25rem;
+  width: 40rem;
+}
+
+.People h1 {
+  color: #fff;
+  margin-left: 10rem;
+}
+
+.People h3 {
+  color: #fff;
+  margin-left: 10rem;
+}
+
+.Image {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-column-gap: 40rem;
+          column-gap: 40rem;
+  color: white;
+}
+
+.Input {
+  margin-top: 4rem;
+}
+
+.Input label {
+  color: #fff;
+  font-size: xx-large;
+}
+
+.Input select {
+  padding: 1rem 2rem;
+  width: 20rem;
+  border-radius: 10px;
+  border: none;
+}
+
+.class input {
+  margin-left: 6.5rem;
+  margin-top: 1rem;
+  padding: 1rem 2rem;
+  width: 20rem;
+  border-radius: 10px;
+}
+
+.placeholder textarea {
+  width: 20rem;
+  border-radius: 10px;
+}
+
+.placeholder p {
+  color: #fff;
+}
+
+.placeholder button {
+  border: none;
+  color: #fff;
+  background-color: blue;
+  margin-left: 4rem;
+  padding: .5rem 3rem;
+  border-radius: 5px;
+}
+
+.placeholder button:hover {
+  cursor: pointer;
+  padding: .6rem 3.2rem;
+}
+/*# sourceMappingURL=Help.module.css.map */

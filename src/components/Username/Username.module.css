@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.username{
+    
+    text-align: center;
+    padding-top: 2rem;
+}
+.you{
+    margin-top: 7rem;
+    margin-right: 12rem;
+}
+.user{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.name input{
+    padding: .8rem 5rem;
+    border-radius: .5rem;
+}
+.name label{
+    padding-right: 7rem;
+}
+.pwrd input{
+    padding: .8rem 5rem;
+    border-radius: .5rem;
+}
+.pwrd label{
+    padding-right: 7rem;
+}
+.vpwrd input{
+    padding: .8rem 5rem;
+    border-radius: .5rem;
+}
+.vpwrd label{
+    padding-right: 9.8rem;
+}
+.bnn{
+    padding-top: 2rem;
+}
+.bnn button{
+    padding: .8rem 3rem;
+    border-radius: .5rem;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.bnn button:hover{
+    padding: 1rem 3.4rem;
+    cursor: pointer;
+}

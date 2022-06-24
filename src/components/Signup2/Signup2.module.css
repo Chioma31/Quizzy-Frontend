@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.many {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  background-size: cover;
+  height: 100vh;
+}
+
+.sidebar {
+  position: relative;
+  width: 40%;
+  height: 100vh;
+  background-size: cover;
+  margin: 0;
+  background-color: #060116;
+  color: aliceblue;
+}
+
+.top img {
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.write {
+  /* text-align: center; */
+  padding-top: 6rem;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-left: 10rem;
+}
+
+.profile {
+  margin-bottom: 1.5rem;
+}
+
+.organ {
+  margin-bottom: 1.5rem;
+}
+
+.mainsub {
+  width: 60%;
+  height: 100vh;
+  background-color: #042A37;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.mainsub h1 {
+  margin-top: 1rem;
+  color: #f0f8ff;
+}
+
+.mainsub button {
+  border: none;
+}
+
+.choose {
+  border: none;
+  width: 32rem;
+  padding: 1.5rem 3rem;
+  border-radius: 10px;
+  margin-top: 1rem;
+}
+
+.sinor {
+  margin-right: 5rem;
+}
+
+.sinor:hover {
+  cursor: pointer;
+  background-color: #042A37;
+  border-radius: 5px;
+  color: #f0f8ff;
+  padding: .1rem 1rem;
+}
+
+.sinser {
+  margin-left: 5rem;
+}
+
+.sinser:hover {
+  cursor: pointer;
+  background-color: #042A37;
+  border-radius: 5px;
+  color: #f0f8ff;
+  padding: .1rem 1rem;
+}
+
+.exam:hover {
+  cursor: pointer;
+  background-color: #042A37;
+  border-radius: 5px;
+  color: #f0f8ff;
+  padding: .1rem 1rem;
+}
+
+.mainsub p {
+  margin-left: 20rem;
+}
+
+.mixin {
+  margin-top: 2rem;
+}
+
+.Back {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  padding: .5rem 3rem;
+  border: none;
+}
+
+.Confirm {
+  background-color: #765DC1;
+  color: white;
+  border-radius: 10px;
+  padding: .5rem 2rem;
+  border: none;
+  margin-left: 4rem;
+}
+
+.note {
+  color: #f0f8ff;
+  font-size: 1.5rem;
+}
+
+.note li {
+  margin-bottom: 1rem;
+}
+/*# sourceMappingURL=Signup2.module.css.map */

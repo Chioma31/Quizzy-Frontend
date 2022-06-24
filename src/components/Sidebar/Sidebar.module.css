@@ -1,0 +1,51 @@
+
+.Sidebar{
+    height: 100vh;
+    width: 260px;
+    background-color:  rgb(71, 71, 99);
+    position: absolute;
+}
+ .SidebarList{
+    height: auto;
+    width: 100%;
+    padding-top: 4rem;
+} 
+.SidebarList .row{
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    height: 4rem;
+    background-color:#056084;
+    border: 5px solid rgb(71, 71, 99);
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+} 
+.row{
+    height: 5rem;
+}
+.Sidebar img{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.SidebarList #active{
+    background-color: #13aae6 ;
+}
+.SidebarList .row:hover{
+    cursor: pointer;
+    background-color: #13aae6 ;
+
+}
+.icon{
+    flex: 30%;
+    display: grid;
+    place-items: center;
+}
+.title{
+    flex: 70%;
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "questionIndex": 0,
+        "question": "Who is the president of the United States?",
+        "options": ["Barak Obama", "Donald Trump", "George Washington", "Joe Biden"],
+        "correctAnswer": "Joe Biden"
+    },
+    {
+        "id": 2,
+        "questionIndex": 1,
+        "question": "Who is the president of  Nigeria?",
+        "options": ["Barak Obama", "Donald Trump", "Muhammadu Buhari", "Bill Clinton"],
+        "correctAnswer": "Muhammadu Buhari"
+    },
+    {
+        "id": 3,
+        "questionIndex": 2,
+        "question": "Who is the prime minister of the United Kingdom?",
+        "options": ["Barak Obama", "Donald Trump", "Alexander Boris", "Bill Clinton"],
+        "correctAnswer": "Alexander Boris"
+    },
+    {
+        "id": 4,
+        "questionIndex": 3,
+        "question": "Who is the president of the France?",
+        "options": ["Barak Obama", "Emmanuel Macron", "George Washington", "Bill Clinton"],
+        "correctAnswer": "Emmanuel Macron"
+    },
+    {
+        "id": 5,
+        "questionIndex": 4,
+        "question": "Who is the president of the Russia?",
+        "options": ["Barak Obama", "Donald Trump", "Vladimir Putin", "Bill Clinton"],
+        "correctAnswer": "Vladimir Putin"
+    }
+]

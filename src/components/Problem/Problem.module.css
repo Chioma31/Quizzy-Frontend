@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.category{
+   
+   margin-top: 1rem;
+    text-align: center;
+    
+}
+.cat{
+    line-height: 4rem;
+}
+.cat label{
+    padding-right: 7rem;
+}
+.cat select{
+    padding: .8rem 8rem;
+    border-radius: .5rem;
+    
+}
+.sub{
+    line-height: 4rem;
+
+}
+.sub label{
+    padding-right: 7rem;
+}
+.sub input{
+    padding: .8rem 5rem;
+    border-radius: .5rem;
+
+}
+.ema{
+    line-height: 4rem;
+}
+.ema label{
+    padding-right: 8rem;
+}
+.ema input{
+    padding: .8rem 5rem;
+    border-radius: .5rem;
+}
+.description{
+   
+    
+}
+.description label{
+    padding-right: 28rem;
+}
+.description textarea{
+    width:20rem;
+    height: 10rem;
+    border-radius: 10px;
+}
+.brief{
+    /* line-height: 4rem; */
+    padding-left: 2rem;
+}
+
+
+
+.bnn button{
+    padding: .8rem 3rem;
+    border-radius: .5rem;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+input{
+    margin-left: 5rem;
+}
+select{
+
+    margin-left: 5rem;
+}

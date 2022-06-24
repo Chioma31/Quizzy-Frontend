@@ -1,0 +1,15 @@
+.item {
+    /* background-color: rgb(73, 217, 243); */
+    color: white;
+    font-size: 12px;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.isAnswered {
+    background-color: rgb(73, 217, 243);
+}

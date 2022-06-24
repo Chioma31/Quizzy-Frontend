@@ -1,0 +1,15 @@
+ .red{
+  position:absolute;
+  color:red;
+  font-size: 1rem;
+  margin-top: -1rem;
+
+}
+Input.input-error{
+  border: 1px solid red;
+}
+.blue{
+  position:absolute;
+  color:red;
+  font-size: 1rem;
+}

@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.all{
+    display: flex;
+}
+.sidebar{
+    position: relative;
+    /* width: 20vw; */
+    height:100vh;
+    background-size: cover;
+    margin: 0;
+    background-color:rgb(6, 1, 22);
+    color: aliceblue;
+    width: 30%;
+    
+}
+.top img{
+     margin-top: 2rem;
+     margin-left: 3rem;
+}
+.write{
+    /* text-align: center; */
+    padding-top: 6rem;
+    justify-content: center;
+    margin-left: 5rem;
+}
+
+.organ{
+    background-color:#042A37;
+    text-align: center;
+    color: white;
+    height: 100vh;
+    width: 70%;
+    line-height: 2rem;
+    padding-top: 5rem;
+}
+.organ h1{
+    line-height: 6rem;
+    padding-left: 5rem;
+    /* background-color: rgb(123, 7, 231); */
+}
+.org input{
+    padding: 5px 2rem;
+    border-radius: .5rem;
+    padding-left: 0;
+    border: none;
+    text-align: center;
+    /* background-color: rgb(123, 7, 231);
+    color: white; */
+}
+.regis input{
+    padding: 5px 15rem;
+    border-radius: .5rem;
+    /* padding-right: 9rem; */
+    padding-left: 0;
+    border: none;
+}
+.butt button{
+    padding: .2rem 4rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    border: none;
+    /* background-color: blueviolet; */
+}
+
+.butt{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    column-gap: 3rem;
+    padding-left: 3rem;
+    padding-top: 2rem;
+}
+.bac button:hover{
+    background-color: aliceblue;
+
+    cursor: pointer;
+}
+.nes button:hover{
+    background-color: rgb(123, 7, 231);
+    cursor: pointer;
+    color: aliceblue;
+}

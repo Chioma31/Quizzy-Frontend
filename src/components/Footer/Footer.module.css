@@ -1,0 +1,28 @@
+.footer{
+    background-color: rgb(71, 71, 99);
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+   
+}
+.wrap{
+    display: flex;
+    column-gap: .5rem;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 1rem;
+ 
+
+}
+.footer button{
+    border: 1px solid wheat;
+    background-color: transparent;
+    color: wheat;
+    transition: 0.3s ease-in;
+}
+.footer button:hover{
+    transform: translateY(-20px);
+}
+.footer2 img{
+    margin-top: 1.5rem;
+}

@@ -1,0 +1,15 @@
+@mixin Backstyle {
+    background-color: white;
+    color:black;
+    border-radius: 10px;
+    padding: .5rem 3rem;
+    border: none;
+}
+@mixin Confirmstyle {
+    background-color: #765DC1;
+    color: white;
+    border-radius: 10px;
+    padding: .5rem 2rem;
+    border: none;
+    margin-left: 4rem;
+}

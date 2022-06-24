@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.paragraph{
+    margin-left: 22rem;
+}
+.timer{
+    padding-top: 2rem;
+    padding-left: 37rem;
+}
+.co{
+    padding-left: 37rem;
+    padding-bottom: 10px;
+}
+.in{
+    padding-left: 30rem;
+
+}
+.intro{
+    padding-left: 20rem;
+    margin-top: 5rem;
+}
+
+
+
+.button{
+    padding-top: 10rem;
+    line-height: 4rem;
+}
+.btn1 button{
+    padding: 1rem 6rem;
+    color: white;
+    background-color: blueviolet;
+    border: none;
+}
+
+.side{
+    padding-top: 2rem;
+    height: 100%;
+   
+
+}
+.bod{
+    align-content: center;
+
+}
+.tak{
+    padding-left: 37rem;
+    /* align-content: center; */
+    line-height: 7rem;
+}
+.side input{
+    padding: .9rem 6rem;
+    border-radius: .5rem;
+
+}
+.intro{
+    line-height: 6rem;
+}
+.twobtn1{
+   
+    padding-left: 37rem;
+    padding-top: 1rem;
+    
+}
+.twobtn1 button{
+    padding: 1rem 3rem;
+    border-radius: .5rem;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+.twobtn1 button:hover{
+    background-color: blue;
+    cursor: pointer;
+    padding: 1rem 3.5rem;
+}

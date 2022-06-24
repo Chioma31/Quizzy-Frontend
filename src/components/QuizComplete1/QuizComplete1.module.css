@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.complete1{
+    padding-top: 5rem;
+    line-height: 0;
+    text-align: center;
+  
+}
+.com1{
+    /* padding-left: 29rem; */
+    line-height: 4rem;
+    font-size: x-large;
+}
+.success1{
+    padding-top: 3rem;
+}
+.you1{
+    padding-top: 3rem;
+    line-height: 2rem;
+    font-size: x-large;
+}
+
+.bttnn1 button{
+    padding: 1.5rem 3rem;
+    border-radius: .5rem;
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-top: 4rem;
+}
+.bttnn1 button:hover{
+    padding: 1.5rem 3.1rem;
+    cursor: pointer;
+}
